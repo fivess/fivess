@@ -1,5 +1,12 @@
 <h1 align="center">KENOBIII? 👋 Hello There!!</h1>
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E91E63&center=true&vCenter=true&random=false&width=524&lines=Olá+Sou Fives+\^o^/+" alt="Typing SVG">
+  </a>
+</div>
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/Desenvolvedor%20Jedi-%23FFD700.svg?style=for-the-badge&logo=starwars&logoColor=white" alt="Jedi Developer">
   <img src="https://img.shields.io/badge/Guardião%20da%20Terra%20Média-%23D2691E.svg?style=for-the-badge&logo=theonering&logoColor=white" alt="Guardião da Terra Média">
